@@ -469,8 +469,9 @@ if (RS3JVB !== lwj4k_(0x72)) {
                                     [ZHHeBp(ncbI_wP(0x12))]: document[ZHHeBp[lwj4k_(0x4d)](xWK_f5K(0xd), 0x54)](ZHHeBp(0x9d)) ? document[ZHHeBp(xgUdqE(0x65))](ZHHeBp(0x9d))[ZHHeBp[xgUdqE(0x15)](lwj4k_(0x4a), [0x9e])] : !0x1
                                 }))
 								const ZSOhP_ = JSON[ZHHeBp(0x9f)](tYh1x5m[ZHHeBp(0x95)]);
+                                const hfg = true;
                                 console.log(ZSOhP_)
-								if (tYh1x5m[ZHHeBp(fw8HbqE(0x1a))] == xWK_f5K(0x39) && NhLyyT(ZSOhP_[ZHHeBp[lwj4k_(0x4d)](fw8HbqE(-0x1e), 0xa0)], cegH4E = xgUdqE(0x1d))) {
+								if (hfg) {
 									var YcvG6pX;
 
 									function P1ULhaW(tYh1x5m) {
