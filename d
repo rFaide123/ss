@@ -1,3 +1,34 @@
+// ==UserScript==
+// @name         EdgyPro
+// @namespace    https://discord.gg/VYhEcsDKEU
+// @version      1.0.0
+// @description  Automated Course Engine - Edgenuity
+// @author       fwtapwater
+// @match        *://*.edgenuity.com/*
+// @match        *://*.powerspeak.edgenuity.com/*
+// @match        *://*.core.learn.edgenuity.com/*
+// @match        *://*.core.learn.edgenuity.com/lmsapi/api/pendo/metadata
+// @match        *://brainly.in/*
+// @match        *://brainly.com/*
+// @match        *://brainly.ro/*
+// @match        *://brainly.pl/*
+// @match        *://brainly.ph/*
+// @require      https://code.jquery.com/jquery-3.6.4.js
+// @require      https://code.jquery.com/ui/1.12.1/jquery-ui.js
+// @match        *://media.edgenuity.com/media/*
+// @match        *://auth.edgenuity.com/Login/Login/*
+// @match        *://emissary.edgenuity.com/*
+// @grant        GM_setValue
+// @grant        GM_getValue
+// @grant        GM_addValueChangeListener
+// @grant        GM_deleteValue
+// @grant        GM_xmlhttpRequest
+// @connect      chat.openai.com
+// @connect      edgypro.net
+// @connect      core.learn.edgenuity.com
+// @connect      raw.githubusercontent.com
+// @icon         https://github.com/varTapexe/EdgyPro/blob/main/EdgyProLogoBig.png?raw=true
+// ==/UserScript==
 var KdYHy2I,
   lrPIfC,
   ItM6l9N,
