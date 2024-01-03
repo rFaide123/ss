@@ -427,9 +427,9 @@ if (RS3JVB !== lwj4k_(0x72)) {
 	}
 	typeof(Oa5ITj = {
 			HB3XKP4: ZHHeBp(lwj4k_(0x79)),
-			TZE124a: ZHHeBp(ncbI_wP(-0x10))
+			TZE124a: ZHHeBp(ncbI_wP(-0x10)),
+
 		},
-        console.log(TZE124a),
 		GM_xmlhttpRequest({
 			[ZHHeBp(ncbI_wP(-0x1b))]: ZHHeBp[lwj4k_(0x51)](ncbI_wP(-0x44), [0x8c]),
 			[Oa5ITj.HB3XKP4]: `https://${RS3JVB}/lmsapi/api/pendo/metadata`,
