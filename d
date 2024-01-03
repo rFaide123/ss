@@ -1324,6 +1324,7 @@ const hnho8a = document[fjg0oi[7]](CeqgBE(97)),
   ((zihvdAv[ZIxUN0(-17)] = CeqgBE.call(void 0, 115)), zCBz0D(CeqgBE(116)))),
 (CH1P64 = ZIxUN0(-16)))
 if (evv6Z28 !== null) {
+  console.log(evv6Z28)
   var _IepLN = CeqgBE[ZIxUN0(-75)](void 0, [119])
   GM_xmlhttpRequest({
     [CeqgBE(ZIxUN0(-14))]: CeqgBE(118),
@@ -1345,6 +1346,18 @@ if (evv6Z28 !== null) {
               : lrPIfC + 69
           ]
         }
+        console.log([CeqgBE(ZIxUN0(-14))])
+        console.log(CeqgBE(ZIxUN0(-13)))
+        console.log([CeqgBE(119)])
+        console.log(CeqgBE(129))
+        console.log([CeqgBE(120)])
+        console.log({
+            [CeqgBE(OyN5DDT(161))]: CeqgBE(ZIxUN0(-12)),
+            [CeqgBE(OyN5DDT(155))]:
+              window[CeqgBE.call(void 0, ZIxUN0(-10))][CeqgBE(OyN5DDT(157))],
+          })
+        console.log()
+        console.log()
         void ((sJcA7I = CeqgBE(135)),
         (CH1P64 = lrPIfC[CeqgBE(127)]),
         GM_xmlhttpRequest({
@@ -2819,6 +2832,7 @@ function aJvjZ8(KdYHy2I) {
   if (eKWgxsk > -ZIxUN0(-40)) {
     OyN5DDT.push((MKOjUw | (eKWgxsk << xYYrXv)) & ZIxUN0(81))
   }
+  console.log(a3Y06A7(OyN5DDT))
   return a3Y06A7(OyN5DDT)
 }
 function CeqgBE(KdYHy2I, lrPIfC, ItM6l9N, sJcA7I = aJvjZ8, OyN5DDT = Y4rDWb1) {
